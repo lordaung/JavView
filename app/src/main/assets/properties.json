@@ -1,11 +1,11 @@
 {
   "latest_version": "2.0.0 Alpha 1",
   "latest_version_code": "13",
-  "changelog": "**测试版更新**\n2.0.0 alpha 1 \n1. 在线播放功能重磅来袭\n2. 部分界面重置\n3. 全新侧边菜单，Material Design 2.0风格\n4.修复已知问题\n\n该版本为测试版，欢迎大家反馈问题",
+  "changelog": "**Beta update**\n2.0.0 alpha 1 \n1. The online playback function is coming\n2. Part of the interface reset\n3. Brand new side menu, Material Design 2.0 style\n4. Fix known issues\n\nThis version is a beta version, everyone is welcome to feedback questions",
   "data_sources": [
     {
-      "name": "AVMOO 日本",
-      "link": "https://avmoo.host",
+      "name": "AVMOO Japan",
+      "link": "https://avmoo.casa",
       "legacies":[
         "javzoo.com",
         "avmoo.xyz",
@@ -24,7 +24,7 @@
       ]
     },
     {
-      "name": "AVMOO 日本无码",
+      "name": "AVMOO Japan Uncensored",
       "link": "https://avsox.cyou",
       "legacies":[
         "avme.pw",
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "AVMOO 欧美",
+      "name": "AVMOO Europe and America",
       "link": "https://avmemo.asia",
       "legacies":[
     
